@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@media (max-width: 600px){
+header img{
+    margin-top: 50px;
+    text-align: center;
+    width:164px;
+}
+
+header ul{
+
+}
+
+}
